@@ -1,0 +1,52 @@
+/* Styles pour le formulaire */
+.logo {
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.form-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+}
+
+/* Styles pour les boutons */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* Styles pour les tableaux */
+.table {
+    margin-top: 20px;
+}
+
+/* Styles pour les résultats */
+.results-container {
+    margin-top: 30px;
+}
+
+/* Styles pour les en-têtes des tableaux */
+thead {
+    background-color: #0d6efd;
+    color: white;
+}
+
+/* Styles pour les lignes de tableau alternées */
+tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+.red-text {
+    font-weight: bold;
+    color: red;
+}
+
+/* Style pour les ID des vrais billets */
+.green-text {
+    font-weight: bold;
+    color: green;
+}
